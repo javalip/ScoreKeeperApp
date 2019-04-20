@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="initial_score_a">0</string>
+    <string name="initial_score_b">0</string>
+    <string name="two_points_a">+2 points</string>
+    <string name="three_points_a">+3 points</string>
+    <string name="free_throw_a">Free Throw</string>
+    <string name="two_points_b">+2 points</string>
+    <string name="three_points_b">+3 points</string>
+    <string name="free_throw_b">Free Throw</string>
+    <string name="three_points_for_team_a">Add Three points for team a</string>
+    <string name="two_points_for_team_a">Add Two points for team a</string>
+    <string name="one_points_for_team_a">Add one point for team a</string>
+    <string name="three_points_for_team_b">Add Three points for team b</string>
+    <string name="two_points_for_team_b">Add Two points for team b</string>
+    <string name="one_points_for_team_b">Add one point for team b</string>
+</resources>
